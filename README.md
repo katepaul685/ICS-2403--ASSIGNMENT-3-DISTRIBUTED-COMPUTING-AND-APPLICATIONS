@@ -1,6 +1,6 @@
 # ICS 2403: Distributed Systems and Applications
-**Student:** Kate Paul
-**Reg No:** [Add Reg No Here]
+**Student:** CATHERINE ATIENO
+**Reg No:** ENE221-0143/2021
 
 This repository contains the practical implementation of the Distributed Systems assignment, covering architecture modeling, load balancing, concurrency, and fault tolerance.
 
